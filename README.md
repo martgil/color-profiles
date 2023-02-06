@@ -11,3 +11,9 @@ on your preferences.
 
 ### How to use it?
 Go to your Monitor calibration settings and import the specific color profile you want to use.
+
+#Misc
+
+Force Google Chrome to use sRGB profile - chrome://flags/#force-color-profile
+
+
